@@ -1,0 +1,40 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#img_banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.banner {
+  background-image: url(images/article-image-00.jpeg);
+  height: 400px;
+  width: 100%;
+  text-align: center;
+  font-size: large;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-justify: center;
+}
+.banner h1 {
+  color: #ffffff;
+  font-size: 148px;
+}
+.container {
+ max-width: 960px;
+ text-align: center;
+ margin: 0 auto;
+}
+p {
+  text-align: left;
+}
+.black {
+color: black;
+}
+h2 {
+  font-size: 60px;
+}
